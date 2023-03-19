@@ -40,13 +40,13 @@ const Banner = () => {
           <div className="col-lg-6 order-1 order-lg-0">
             <div className="bithu_v5_baner_left">
               <h2>
-                BUILD & SELL YOUR EVERY PIXEL <img src={heartIcon} alt="icon" />
+              NFT Player One: $600k Treasure Hunt Price Pool  <img src={heartIcon} alt="icon" />
               </h2>
               <h3>
                 <span className="count">
-                  <Counter end={5555} duration={5555} />
+                  <Counter end={10000} duration={10} />
                 </span>{" "}
-                / 5555 Minted
+                / 0 Minted
               </h3>
               <div className="banner_buttons">
                 <Button sm variant="mint" onClick={() => mintModalHandle()}>
@@ -58,10 +58,10 @@ const Banner = () => {
                 </Button>
               </div>
               <div className="coin-info">
-                <span>Max 2 NFTs per wallet . Price 0.09 ETH + gas</span>
+                <span>Max 1 NFT per wallet. Price 0.09 ETH</span>
                 <span>
                   MINT IS LIVE{" "}
-                  <span className="highlighted">UNTIL 25 APR 04:00H</span>
+                  <span className="highlighted">UNTIL 24 MAR 12:00H</span>
                 </span>
                 <span>Presale : SOLDOUT</span>
               </div>

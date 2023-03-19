@@ -20,19 +20,12 @@ const About = () => {
         <div className="v2_about_us_content">
           <div className="v2_about_us_text">
             <p>
-              Contrary to popular belief, Lorem Ipsum is not simply random text.
-              It has roots in a piece of classNameical Latin literature from 45
-              BC, making it over 2000 years old. Richard McClintock, a Latin
-              professor at Hampden-Sydney College in Virginia, looked up one of
-              the more obscure Latin words, consectetur cites of the word in
-              classNameical literature.
+            We are a team of talented and dedicated individuals who are passionate about delivering cutting-edge solutions to the crypto industry. Our focus is on developing and implementing new features using the latest in artificial intelligence technology, including the highly-anticipated GPT-4.
+            We believe that the future of the crypto industry lies in innovation, and we are committed to leading the way. Our goal is to provide our customers with powerful and easy-to-use tools that leverage the power of AI to help them navigate the complex world of cryptocurrencies. Whether you are a seasoned investor or just starting, our platform is designed to meet your needs.
             </p>
             <p>
-              The standard chunk of Lorem Ipsum used since the 1500s is
-              reproduced below for those interested. Sections 1.10.32 and
-              1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also
-              reproduced in their exact original a latin professor at
-              Hampden-Sydney
+            At the heart of our business is a commitment to excellence. We strive to be the best in everything we do, from our development process to our customer support. Our team is comprised of experts in their fields, with extensive experience in AI, crypto, and software development. Together, we work tirelessly to create a platform that delivers unparalleled value to our users.
+            We are excited to be on this journey, and we invite you to join us. As we continue to develop and refine our platform, we are always looking for ways to improve and innovate. We believe that by working together, we can create a brighter future for the crypto industry, and we are committed to being at the forefront of this exciting and rapidly-evolving field. Thank you for your support!
             </p>
 
             <div className="counter-wrap">
