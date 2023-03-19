@@ -4,9 +4,9 @@ import aboutIcon from "../../images/icon/ab-icon-image.png";
 
 const data = {
   aboutDescription1:
-    "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur cites of the word in classical literature.",
+    "Welcome to the world of our NFT puzzle game, where adventure, excitement, and treasure await you! Are you ready to put your puzzle-solving skills to the test and unlock the secrets hidden within our NFTs? Our NFT puzzle game is inspired by the classic movie Ready Player One, and it offers challenging experience that will keep you on the edge of your seat. Explore a world of endless possibilities, solve complex puzzles, and uncover hidden treasures that are waiting to be discovered. In our NFT puzzle game, you will have the chance to solve puzzles that are designed to challenge your mind and test your skills. Whether you're a seasoned puzzle solver or a newcomer to the world of puzzles, you'll find that our game offers something for everyone.",
   aboutDescription2:
-    'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original a latin professor at Hampden-Sydney',
+  "And the best part? Our future NFT puzzle game offers the chance to win real-world prizes, including exclusive NFTs, cryptocurrencies, and other exciting rewards. As you solve puzzles and unlock secrets, you'll be earning points and climbing the leaderboard, putting you one step closer to winning the ultimate prize. With exciting gameplay, stunning graphics, and endless possibilities, our game is the ultimate puzzle-solving adventure. So what are you waiting for? Dive into the world of our NFT puzzle collection and experience the thrill of the chase as you race to uncover the secrets hidden within our NFTs.",
   artists: [
     {
       thumb: aboutThumb1,

@@ -6,7 +6,7 @@ const data = [
         features: [
             {
                 icon: <FiCheck />,
-                text: "Creation of the CAT NFT collection"
+                text: "Creation of the NFT Ready Player collection"
             },
             {
                 icon: <FiCheck />,

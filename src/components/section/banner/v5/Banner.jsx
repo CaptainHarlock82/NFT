@@ -63,7 +63,7 @@ const Banner = () => {
                   MINT IS LIVE{" "}
                   <span className="highlighted">UNTIL 24 MAR 12:00H</span>
                 </span>
-                <span>Presale : SOLDOUT</span>
+                
               </div>
             </div>
           </div>
