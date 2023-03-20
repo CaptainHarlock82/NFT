@@ -17,7 +17,7 @@ const FAQ = () => {
     <FAQStyleWrapper className="bithu_faq_sect" id="faq">
       <div className="container">
         <SectionTitle
-          title="QUESTION & ANSWER"
+          title="FAQs"
           subtitle="Faq"
           className="section_title"
         />

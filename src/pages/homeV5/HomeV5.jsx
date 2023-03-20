@@ -19,12 +19,12 @@ const HomeV5 = () => {
   const [isCollapse, setCollapse] = useState(true);
   const { visibility, walletModalvisibility } = useModal();
   const menuData = [
-    "01. Home",
-    "02. About",
-    "03. Roadmap",
-    "04. Team",
-    "05. FAQ",
-    "06. Mint (Coming soon)",
+    "Home",
+    "About",
+    "Roadmap",
+    // "04. Team",
+    "FAQ",
+    "Mint (Coming soon)",
   ];
 
   const settings = {
@@ -76,9 +76,9 @@ const HomeV5 = () => {
             <SliderItem>
               <RoadMap />
             </SliderItem>
-            <SliderItem>
+            {/* <SliderItem>
               <Team />
-            </SliderItem>
+            </SliderItem> */}
             <SliderItem>
               <FAQ />
             </SliderItem>

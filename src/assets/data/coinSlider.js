@@ -3,19 +3,11 @@ import shapeIcon from "../images/icon/mint_live_icon.svg";
 const data = [
   {
     icon: shapeIcon,
-    text: "Mint Is Live",
+    text: "Mint will live soon",
   },
   {
     icon: shapeIcon,
-    text: "Presale End",
-  },
-  {
-    icon: shapeIcon,
-    text: "Mint Is Live",
-  },
-  {
-    icon: shapeIcon,
-    text: "Presale End",
+    text: "10K players",
   },
   {
     icon: shapeIcon,
@@ -23,31 +15,39 @@ const data = [
   },
   {
     icon: shapeIcon,
-    text: "Presale End",
+    text: "$600K Prize",
   },
   {
     icon: shapeIcon,
-    text: "Mint Is Live",
+    text: "10K NFTs",
   },
   {
     icon: shapeIcon,
-    text: "Presale End",
+    text: "Player One",
   },
   {
     icon: shapeIcon,
-    text: "Mint Is Live",
+    text: "Find Clues",
   },
   {
     icon: shapeIcon,
-    text: "Presale End",
+    text: "ETHER",
   },
   {
     icon: shapeIcon,
-    text: "Mint Is Live",
+    text: "MIND GAMES",
   },
   {
     icon: shapeIcon,
-    text: "Presale End",
+    text: "NFT",
+  },
+  {
+    icon: shapeIcon,
+    text: "FIND Clues",
+  },
+  {
+    icon: shapeIcon,
+    text: "$600K Prize",
   },
 ];
 

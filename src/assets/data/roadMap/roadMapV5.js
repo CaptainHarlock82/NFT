@@ -2,163 +2,69 @@ import { FiCheck, FiMinus } from "react-icons/fi";
 
 const data = [
     {
-        title: "Phase 01 - 10%",
+        title: "Phase 01 - 25%",
         features: [
             {
                 icon: <FiCheck />,
-                text: "Creation of the NFT Ready Player collection"
+                text: "Start Social Media Marketing"
             },
             {
                 icon: <FiCheck />,
-                text: "Publish Token Name"
+                text: "Contract Deployment"
             },
             {
                 icon: <FiCheck />,
-                text: "Launching our 5555 free mint For Whitelist"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Development of NFT Marketplace"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Project White Paper"
-            },
+                text: "Mint Date Announcement"
+            }
         ]
     },
     {
-        title: "Phase 02 - 20%",
+        title: "Phase 02 - 50%",
         features: [
             {
                 icon: <FiCheck />,
-                text: "The Solana Blockchain will be Invaded"
+                text: "Joining of 10K participants"
             },
             {
                 icon: <FiCheck />,
-                text: "Collection Launch"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Rarity chart, Solrarity and Moonrank"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Exploring the idea of a Token"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Marketing on social networks"
-            },
+                text: "Mint Start"
+            }
         ]
     },
     {
-        title: "Phase 03 - 30%",
+        title: "Phase 03 - 75%",
         features: [
             {
                 icon: <FiCheck />,
-                text: "Bithu Dice's & Smart Contract Integration"
+                text: "10K participants are ready to find clues"
             },
             {
                 icon: <FiCheck />,
-                text: "BTU Public Coin Launch"
+                text: "Start of Game"
             },
             {
                 icon: <FiCheck />,
-                text: "World Beta Release 1.0"
+                text: "End of Competition"
             },
             {
                 icon: <FiMinus />,
-                text: "Development of NFT Marketplace"
-            }, 
-            {
-                icon: <FiMinus />,
-                text: "Smart Contract Creation"
-            }, 
-            {
-                icon: <FiMinus />,
-                text: "Project White Paper"
-            }, 
-            {
-                icon: <FiMinus />,
-                text: "Whitepaper Publish"
-            }, 
-        ]
-    },
-    {
-        title: "Phase 04 - 10%",
-        features: [
-            {
-                icon: <FiCheck />,
-                text: "Creation of the CAT NFT collection"
+                text: "Winners Annoucement"
             },
             {
                 icon: <FiCheck />,
-                text: "Publish Token Name"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Launching our 5555 free mint For Whitelist"
-            }, 
-            {
-                icon: <FiCheck />,
-                text: "Development of NFT Marketplace"
-            },  
-            {
-                icon: <FiCheck />,
-                text: "Project White Paper"
-            }, 
-        ]
-    },
-    {
-        title: "Phase 05 - 20%",
-        features: [
-            {
-                icon: <FiCheck />,
-                text: "The Solana Blockchain will be Invaded"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Collection Launch"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Rarity chart, Solrarity and Moonrank"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Exploring the idea of a Token"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Marketing on social networks"
+                text: "Winners will claim their prizes"
             },
         ]
     },
     {
-        title: "Phase 06 - 30%",
+        title: "Phase 04 - 100%",
         features: [
             {
                 icon: <FiCheck />,
-                text: "The Solana Blockchain will be Invaded"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Collection Launch"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Rarity chart, Solrarity and Moonrank"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Exploring the idea of a Token"
-            },
-            {
-                icon: <FiCheck />,
-                text: "Marketing on social networks"
-            },
+                text: "Start of GAME 2"
+            }
         ]
-    },
+    }
 ]
 
 export default data;

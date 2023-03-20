@@ -50,13 +50,13 @@ const Header = () => {
               >
                 <FaWallet /> Connect
               </Button>
-              <Button
+              {/* <Button
                 variant="outline"
                 className="menu_btn"
                 onClick={() => handleMobileMenu()}
               >
                 <img src={menuIcon} alt="menu bar icon" />
-              </Button>
+              </Button> */}
             </div>
           </div>
         </div>

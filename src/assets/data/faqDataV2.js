@@ -1,28 +1,28 @@
 export const data1 = [
   {
-    title: "What is MiNFT ?",
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    title: "What is NFT?",
+    text: "An NFT (Non-Fungible Token) is a type of digital asset that is unique and cannot be replicated. It is stored on a blockchain and can represent anything from artwork to collectibles, digital assets, or even real-world assets.",
   },
   {
-    title: "How we can buy and invest NFT ?",
-    text: "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur cites of the word in classical literature.",
+    title: "How does an NFT work?",
+    text: "An NFT works by using blockchain technology to create a unique token that can be used to represent ownership of a digital asset. The token is stored on the blockchain and can be transferred between users, allowing for the secure transfer of ownership.",
   },
   {
-    title: "Why we should choose MiNFT ?",
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    title: "What is the Price Pool?",
+    text: "$600K",
   },
 ];
 export const data2 = [
   {
-    title: "Where we can buy and sell NFts ?",
-    text: "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur cites of the word in classical literature.",
+    title: "Is there any presale?",
+    text: "No presale, mint will be available for all participants",
   },
   {
-    title: "How secure is this token ?",
-    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    title: "Wen Mint?",
+    text: "Will Announce soon...",
   },
   {
     title: "What is your contract address ?",
-    text: "It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur cites of the word in classical literature.",
+    text: "Coming Soon",
   },
 ];
