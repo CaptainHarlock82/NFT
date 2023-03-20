@@ -39,6 +39,10 @@ const MintStyleWrapper = styled.section`
       }
     }
   }
+  .colors{
+    color: white;
+    text-align:center;
+  }
 
   .mint_count_list {
     margin: 0;

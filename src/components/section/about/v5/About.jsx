@@ -29,46 +29,47 @@ const About = () => {
               <div className="counter_item">
                 <h3>
                   <Counter
-                    end={9999}
+                    end={10000}
                     decimal="."
                     decimals={9999 % 1 !== 0 ? "2" : "0"}
                     suffix={""}
                   />
                 </h3>
-                <h6>Total Items</h6>
+                <h6>Total Entires</h6>
               </div>
               <div className="counter_item">
                 <h3>
                   <Counter
-                    end={0.06}
+                    end={0.085}
                     decimal="."
-                    decimals={0.06 % 1 !== 0 ? "2" : "0"}
+                    decimals={0.085 % 1 !== 0 ? "2" : "0"}
                     suffix={""}
                   />
                 </h3>
-                <h6>NFT Mint Price</h6>
+                <h6>Mint Price</h6>
               </div>
               <div className="counter_item">
                 <h3>
                   <Counter
-                    end={555}
+                    end={600}
                     decimal="."
                     decimals={555 % 1 !== 0 ? "2" : "0"}
-                    suffix={"+"}
+                    suffix={"K"}
+                    prefix={"$"}
                   />
                 </h3>
-                <h6>Number of Attributes</h6>
+                <h6>Price Pool</h6>
               </div>
               <div className="counter_item">
                 <h3>
                   <Counter
-                    end={25.5}
+                    end={10000}
                     decimal="."
-                    decimals={25.5 % 1 !== 0 ? "2" : "0"}
-                    suffix={"K"}
+                    decimals={10000 % 1 !== 0 ? "2" : "0"}
+                    // suffix={"K"}
                   />
                 </h3>
-                <h6>Volume Traded (ETH)</h6>
+                <h6>Total Players</h6>
               </div>
             </div>
           </div>

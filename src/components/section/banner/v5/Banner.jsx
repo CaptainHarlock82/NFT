@@ -42,13 +42,13 @@ const Banner = () => {
               <h2>
               NFT Player One: $600k Treasure Hunt Price Pool  <img src={heartIcon} alt="icon" />
               </h2>
-              <h3>
+              {/* <h3>
                 <span className="count">
                   <Counter end={10000} duration={10} />
                 </span>{" "}
                 / 0 Minted
-              </h3>
-              <div className="banner_buttons">
+              </h3> */}
+              {/* <div className="banner_buttons">
                 <Button sm variant="mint" onClick={() => mintModalHandle()}>
                   {" "}
                   Mint now
@@ -64,7 +64,7 @@ const Banner = () => {
                   <span className="highlighted">UNTIL 24 MAR 12:00H</span>
                 </span>
                 
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="col-lg-6 order-0 order-lg-1">

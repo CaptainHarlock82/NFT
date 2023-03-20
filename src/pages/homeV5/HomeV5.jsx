@@ -24,7 +24,7 @@ const HomeV5 = () => {
     "03. Roadmap",
     "04. Team",
     "05. FAQ",
-    "06. Mint",
+    "06. Mint (Coming soon)",
   ];
 
   const settings = {

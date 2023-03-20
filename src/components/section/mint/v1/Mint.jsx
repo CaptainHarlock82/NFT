@@ -34,7 +34,7 @@ const Mint = () => {
     <MintStyleWrapper>
       <div className="container">
         <div className="row">
-          <div className="col-lg-6">
+          {/* <div className="col-lg-6">
             <div className="mint_left">
               <Slider {...settings}>
                 {slideImages?.map((thumb, idx) => (
@@ -46,9 +46,9 @@ const Mint = () => {
                 ))}
               </Slider>
             </div>
-          </div>
+          </div> */}
           <div className="col-lg-6">
-            <div className="mint_right">
+            {/* <div className="mint_right">
               <ul className="mint_count_list">
                 <li>
                   <h5>Remaining</h5>
@@ -90,14 +90,24 @@ const Mint = () => {
               <Button lg variant="mint" onClick={() => mintModalHandle()}>
                 {" "}
                 Mint now
-              </Button>
+              </Button> 
               <p>
                 By clicking “MINT”, You agree to our{" "}
                 <a href="#">Terms of Service</a> and our{" "}
                 <a href="#">Privacy Policy.</a>
               </p>
+              
+              
             </div>
+            */}
+            
           </div>
+          {/* DELETE THE H1 WHEN START MINT */}
+          <h1 className="colors">
+                MINT WILL LIVE SOON.....
+          </h1>
+
+
         </div>
       </div>
     </MintStyleWrapper>
